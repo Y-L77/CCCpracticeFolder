@@ -1,6 +1,6 @@
 import java.util.*; //CCC '19 S1 - Flipper
 
-public class CCC12{
+public class CCC19S1{
     public static void main(String[] args){
 
 

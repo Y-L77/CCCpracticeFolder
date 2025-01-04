@@ -1,6 +1,6 @@
 import java.util.Scanner; // CCC '23 J2 - Chili Peppers
 
-public class CCC15 {
+public class CCC23J2 {
     public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in);
     	int amountOfSpices = sc.nextInt();

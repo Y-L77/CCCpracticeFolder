@@ -1,6 +1,6 @@
 import java.util.*; //CCC '21 J2 - Silent Auction
 
-public class CCC11 {
+public class CCC21J2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

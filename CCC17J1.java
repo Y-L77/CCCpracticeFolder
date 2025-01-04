@@ -1,6 +1,6 @@
 import java.util.Scanner; // CCC '17 J1 - Quadrant Selection
 
-public class CCC21{
+public class CCC17J1{
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int x = sc.nextInt();

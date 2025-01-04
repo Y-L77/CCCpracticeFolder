@@ -1,6 +1,6 @@
 import java.util.Scanner; //CCC '04 J3 - Smile with Similes
 
-public class CCC16{
+public class CCC04J3{
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);

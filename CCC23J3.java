@@ -1,6 +1,6 @@
 import java.util.Scanner; //CCC '23 J3 - Special Event
 
-public class CCC14 {
+public class CCC23J3 {
 	
 	//total time taken for solution: idk like 15-20 minuetes
 	//any usage of internet or ai for help is documented

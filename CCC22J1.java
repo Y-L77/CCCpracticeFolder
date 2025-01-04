@@ -1,7 +1,7 @@
 import java.util.*; //CCC '22 J1 - Cupcake Party
 
 
-public class CCC8{
+public class CCC22J1{
     public static void main(String[] args){
 
         Scanner sc = new Scanner(System.in);

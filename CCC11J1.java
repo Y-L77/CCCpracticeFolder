@@ -1,6 +1,6 @@
 import java.util.Scanner; //CCC '11 J1 - Which Alien?
 
-public class CCC20{
+public class CCC11J1{
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);

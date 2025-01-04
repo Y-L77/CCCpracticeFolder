@@ -1,6 +1,6 @@
 import java.util.Scanner; //CCC '13 J1 - Next in line
 
-public class CCC19{
+public class CCC13J1{
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
