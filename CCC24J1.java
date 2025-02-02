@@ -12,5 +12,7 @@ public class CCC24J1{
 
 
         System.out.println(red * 3 + green * 4 + blue * 5);
+
+        sc.close();
     }
 }

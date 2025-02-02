@@ -20,5 +20,7 @@ public class CCC18J2{
         }
 
         System.out.println(spacesTakenBothDays);
+
+        sc.close();
     }
 }

@@ -32,6 +32,6 @@ public class CCC11S1{
         else{
             System.out.println("English");
         }
-
+        sc.close();
     }
 }

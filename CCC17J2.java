@@ -19,5 +19,6 @@ public class CCC17J2{
         }
 
         System.out.println(total);
+        sc.close();
     }
 }

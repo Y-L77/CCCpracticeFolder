@@ -26,6 +26,6 @@ public class CCC24S1{
 
         System.out.println(matches);
 
-
+        sc.close();
     }
 }

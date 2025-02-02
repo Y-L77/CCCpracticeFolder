@@ -20,5 +20,7 @@ public class CCC24J2{
                 break;
             }
         }
+
+        sc.close();
     }
 }

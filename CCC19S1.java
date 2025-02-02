@@ -60,6 +60,6 @@ public class CCC19S1{
             System.out.println("2 1");
         }
 
-
+        sc.close();
     }
 }

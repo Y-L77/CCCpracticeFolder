@@ -10,5 +10,6 @@ public class CCC22J1{
         int cupcake2 = sc.nextInt() * 3;
         
         System.out.println((cupcake2 + cupcakes1) - 28);
+        sc.close();
     }
 }

@@ -16,6 +16,8 @@ public class CCC23J2 {
     		totalspice += spicelist[i];
     	}
     	System.out.println(totalspice);
+
+		sc.close();
     }
     
     
@@ -36,5 +38,6 @@ public class CCC23J2 {
     		case("Habanero"):
     			return 125000;
     	}
+		
     }
 }
