@@ -31,5 +31,7 @@ public class CCC24J3 {
             }
         }
         System.out.println(thirdLargestValue + " " + theAmountOfParticipantsThatWereAwardedTheBronzePrize);
+
+        sc.close();
     }
 }

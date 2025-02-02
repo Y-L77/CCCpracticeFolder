@@ -18,6 +18,6 @@ public class CCC11J1{
 		if(ant <= 2 && eye <= 3) {
 			System.out.println("GraemeMercurian");
 		}
-		
+		sc.close();
 	}
 }

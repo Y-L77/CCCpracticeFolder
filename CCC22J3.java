@@ -13,7 +13,6 @@ public class CCC22J3{
 
         String tuningcode = sc.nextLine();
 
-        int numbercount = 0;
 
         for(int i = 0; i < tuningcode.length(); i++){
 
@@ -36,6 +35,6 @@ public class CCC22J3{
             
 
         }
-
+        sc.close();
     }
 }

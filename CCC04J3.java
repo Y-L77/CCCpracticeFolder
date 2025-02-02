@@ -28,6 +28,6 @@ public class CCC04J3{
 			}
 		}
 		
-
+		sc.close();
 	}
 }

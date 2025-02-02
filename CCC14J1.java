@@ -22,5 +22,8 @@ public class CCC14J1{
 		else{
 			System.out.println("Isosceles");
 		}
+
+		sc.close();
+		
 	}
 }

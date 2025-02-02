@@ -11,5 +11,7 @@ public class CCC13J1{
 		int sum = middleCounter - youngestCounter;
 		
 		System.out.println(middleCounter + sum);
+
+		sc.close();
 	}
 }

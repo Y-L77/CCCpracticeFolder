@@ -21,5 +21,8 @@ public class CCC07J1{
             }
         }
         System.out.println(bowls[1]);
+
+        sc.close();
     }
+    
 }

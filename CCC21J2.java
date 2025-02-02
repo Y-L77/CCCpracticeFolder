@@ -10,7 +10,6 @@ public class CCC21J2 {
         String[] BidderNames = new String[bids];
         int[] bidAmounts = new int[bids];
         int topBidder = 0;
-        int index = 0;
 
         for (int i = 0; i < bids; i++) {
             BidderNames[i] = sc.nextLine(); 
@@ -24,5 +23,6 @@ public class CCC21J2 {
             }
         }
         System.out.println(BidderNames[topBidder]);
+        sc.close();
     }
 }

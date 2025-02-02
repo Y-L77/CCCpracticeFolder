@@ -86,5 +86,7 @@ public class CCC23J3 {
             }
             System.out.print(5);
         }
+
+        sc.close();
     }
 }

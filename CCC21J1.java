@@ -17,6 +17,6 @@ public class CCC21J1{
 		else {
 			System.out.println(1);
 		}
-
+		sc.close();
 	}
 }
